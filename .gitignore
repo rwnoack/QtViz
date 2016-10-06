@@ -1,0 +1,8 @@
+TAGS
+QtViz
+Makefile
+moc_*
+*.pro
+*.o
+*~
+*.pdf

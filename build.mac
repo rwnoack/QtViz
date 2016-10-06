@@ -1,0 +1,1 @@
+qmake -project  QT+=opengl QT+=widgets CONFIG+=debug QMAKE_CXXFLAGS+=-Wno-invalid-constexpr; qmake QtViz.pro ; make

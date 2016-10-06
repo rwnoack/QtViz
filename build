@@ -1,0 +1,1 @@
+qmake-qt4 -project  QT+=opengl CONFIG+=debug; qmake-qt4 QtViz.pro ; make
